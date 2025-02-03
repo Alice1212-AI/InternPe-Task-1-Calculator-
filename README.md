@@ -32,7 +32,7 @@ bash
 
 Copy
 
-git clone https://github.com/Alice1212-AI/calculator-web-app.git
+git clone https://github.com/Alice1212-AI/InternPe-Task-1-Calculator-
 
 cd calculator-web-app
 
