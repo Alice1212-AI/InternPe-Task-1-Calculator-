@@ -32,7 +32,7 @@ bash
 
 Copy
 
-git clone https://github.com/your-username/calculator-web-app.git
+git clone https://github.com/Alice1212-AI/calculator-web-app.git
 
 cd calculator-web-app
 
