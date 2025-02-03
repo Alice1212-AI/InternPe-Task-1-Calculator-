@@ -6,17 +6,17 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 # Features
 
-Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)
+✅ Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), Division (/)
 
-Clear display (AC) and delete the last character
+✅ Clear display (AC) and delete the last character
 
-Decimal point (.)
+✅ Decimal point (.)
 
-Equal button to evaluate the expression
+✅ Equal button to evaluate the expression
 
-Responsive layout for mobile and desktop devices
+✅ Responsive layout for mobile and desktop devices
 
-Technology Stack
+✅ Technology Stack
 
 HTML: Structure of the web page
 
