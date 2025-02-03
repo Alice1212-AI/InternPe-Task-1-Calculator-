@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b19cb6d-43a8-431f-8ffd-a2336067cf71)# InternPe-Task-1-Calculator-
+# InternPe-Task-1-Calculator-
 
 # Calculator Web App
 
@@ -49,6 +49,8 @@ The eval() function is used to evaluate the entered expression when the equal bu
 CSS is used to style the calculator and make it visually appealing.
 
 ![image](https://github.com/user-attachments/assets/c665fd34-7471-42ed-87c3-9c72457baf1e)
+
+
 
 
 
